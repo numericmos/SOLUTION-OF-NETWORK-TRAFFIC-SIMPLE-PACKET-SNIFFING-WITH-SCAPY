@@ -1,0 +1,10 @@
+OUTPUT:
+Capturing traffic... (50 packets)
+
+--- Network Traffic Analysis Summary ---
+        Communication  Packet Count
+192.168.1.5 -> 142.250.190.46            12
+142.250.190.46 -> 192.168.1.5            10
+192.168.1.5 -> 192.168.1.1                5
+192.168.1.1 -> 192.168.1.5                5
+...
